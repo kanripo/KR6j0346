@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 聖金剛手菩薩一百八名梵讚
+#+DATE: 2015-08-30 20:30:40.058068
+#+PROPERTY: JUAN 0
